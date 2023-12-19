@@ -20,7 +20,7 @@
 
 ### 분석 프로세스
 
-![분석순서도](/Users/kimsinwoo/Desktop/Smart_Recycler_Location_Assessment/images/분석순서도.png)
+<img width="1133" alt="분석순서도" src="https://github.com/sin09135/Smart_Recycler_Location_Assessment/assets/139515794/588d118f-0eb3-4883-a00b-ca004048ede5">
 
 ---
 
@@ -63,7 +63,8 @@
 
   - 생성된 모델에 행정동 데이터 투입, 예측
 
-    
+<img width="1155" alt="변수 선택 및 모델 학습" src="https://github.com/sin09135/Smart_Recycler_Location_Assessment/assets/139515794/d66460d2-4010-411d-8cb3-4784e51026d0">
+
 
 #### 3. 행정동 클러스터링
 
@@ -71,8 +72,7 @@
 
 - 분석 결과 : 군집 1(생활인구, 1인가구수, 수거함당 거주인구 높은 군집) 선정
 
-  ![클러스터링결과](/Users/kimsinwoo/Desktop/Smart_Recycler_Location_Assessment/images/클러스터링결과.png)
-
+<img width="1155" alt="클러스터링결과" src="https://github.com/sin09135/Smart_Recycler_Location_Assessment/assets/139515794/deb52420-8c41-4e71-92af-0fce87eeabf8">
 
 
 #### 4. 행정동 PCA 입지 지수
@@ -89,7 +89,7 @@
 
   - 입지 지수 적용
 
-    ![입지 지수](/Users/kimsinwoo/Desktop/Smart_Recycler_Location_Assessment/images/입지 지수.png)
+<img width="1159" alt="입지 지수" src="https://github.com/sin09135/Smart_Recycler_Location_Assessment/assets/139515794/a0114309-f46a-4787-a1e6-27792d885ec9">
 
 #### 5. 행정동 내 스마트 수거함 입지 선정
 
@@ -99,4 +99,4 @@
     2. 입지 포인트 순위 선정
     3. 최종 입지 선정
 
-    ![최종입지선정](/Users/kimsinwoo/Desktop/Smart_Recycler_Location_Assessment/images/최종입지선정.png)
+<img width="1131" alt="최종입지선정" src="https://github.com/sin09135/Smart_Recycler_Location_Assessment/assets/139515794/08dea30b-a77d-46d8-ace4-061632e2d361">
